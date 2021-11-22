@@ -42,7 +42,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"roof.json#firstflorfrom"
+                 "value":"roof.json#firstfloorfrom"
                 }],
          "type":"tilelayer",
          "visible":true,
