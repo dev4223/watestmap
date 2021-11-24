@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"roof.json#firstfloorfrom"
+                 "value":"roof.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
