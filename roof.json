@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"firstfloor.json#rooffrom"
+                 "value":"firstfloor.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
