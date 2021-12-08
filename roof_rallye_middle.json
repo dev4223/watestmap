@@ -2523,6 +2523,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cavernofsorrowb",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC BY 3.0 (Nicnubill \"Cavernofsorrowb\" https:\/\/www.deviantart.com\/nicnubill\/art\/Cavernofsorrowb-407555428)"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,

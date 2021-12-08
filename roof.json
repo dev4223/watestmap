@@ -223,7 +223,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":20,
+ "nextlayerid":21,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -1601,6 +1601,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cavernofsorrowb",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC BY 3.0 (Nicnubill \"Cavernofsorrowb\" https:\/\/www.deviantart.com\/nicnubill\/art\/Cavernofsorrowb-407555428)"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
