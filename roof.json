@@ -228,7 +228,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"ttps:\/\/netzpolitik.org\/2021\/bnd-gesetz-bundesnachrichtendienst-erhaelt-so-viele-ueberwachungsbefugnisse-wie-noch-nie\/"
+                 "value":"https:\/\/netzpolitik.org\/2021\/bnd-gesetz-bundesnachrichtendienst-erhaelt-so-viele-ueberwachungsbefugnisse-wie-noch-nie\/"
                 }],
          "type":"tilelayer",
          "visible":true,
