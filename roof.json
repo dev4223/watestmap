@@ -67,6 +67,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/privacyprovided.eu\/snowden-schrems-datenschutz"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,6 +90,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cyber4edu.org\/pads\/s\/ApvVsOg9G#"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -103,6 +113,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cyber4edu.org\/pads\/s\/3a96mL4K_#"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -121,6 +136,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cyber4edu.org\/pads\/s\/hZFbX0xy5#"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -139,6 +159,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.ccc.de\/de\/updates\/2021\/luca-app-ccc-fordert-bundesnotbremse"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -157,6 +182,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/netzpolitik.org\/2021\/bnd-gesetz-bundesnachrichtendienst-erhaelt-so-viele-ueberwachungsbefugnisse-wie-noch-nie\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,6 +205,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/netzpolitik.org\/2020\/office-365-in-der-schule-grobe-verletzungen-datenschutzrechtlicher-vorschriften"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -193,6 +228,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/netzpolitik.org\/2020\/datenschutzkonferenz-deutsche-verwaltung-nutzt-microsoft-produkte-nicht-rechtskonform\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -211,6 +251,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.bpb.de\/lernen\/digitale-bildung\/werkstatt\/328594\/von-datenschutz-pragmatismus-und-zeitgemaesser-bildung"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -229,6 +274,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.deutschlandfunkkultur.de\/kommentar-zu-digitaler-bildung-ein-gigantischer-100.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -247,6 +297,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/blogs.tu-berlin.de\/datenschutz_notizen\/2021\/01\/27\/personalraete-und-datenschutzbeauftragte-der-berliner-hochschulen-setzen-sich-fuer-open-source-videokonferenztools-ein\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -265,6 +320,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.bpb.de\/lernen\/digitale-bildung\/werkstatt\/325751\/hybrides-lernen-aber-wie"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -283,6 +343,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/netzpolitik.org\/2021\/schul-it-in-baden-wuerttemberg-das-grosse-chaos\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -301,6 +366,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/netzpolitik.org\/2021\/neue-spielregeln-warum-google-cookie-tracking-abschafft\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -319,6 +389,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/netzpolitik.org\/2020\/bundesregierung-beschliesst-staatstrojaner-fuer-alle-geheimdienste\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -337,6 +412,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/netzpolitik.org\/2020\/eprivacy-verordnung-eu-staaten-verspielen-chance-auf-kompromiss\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -355,6 +435,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cyber4edu.org\/pads\/s\/cZtcZjp9O#"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -373,6 +458,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cyber4edu.org\/pads\/s\/Cuc3bhjoa#"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -391,6 +481,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/cyber4edu.org\/pads\/s\/A3wGQflPj#"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -409,6 +504,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/de.wikipedia.org\/wiki\/EU-US_Privacy_Shield"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
